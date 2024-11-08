@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* TODO only import this in the blog routes */
 .markdown-body {
     --base-size-4: 0.25rem;
     --base-size-8: 0.5rem;

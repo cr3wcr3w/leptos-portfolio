@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 leptos = { version = "0.6.15", features = ["csr"] }
 pulldown-cmark = "0.12.2"
+rand = "0.8.5"
